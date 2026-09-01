@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JoaoVictorLista01.iml" filepath="$PROJECT_DIR$/.idea/JoaoVictorLista01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joaoVictorEx1Lista1-jardel/joaoVictorEx1Lista1-jardel.iml" filepath="$PROJECT_DIR$/joaoVictorEx1Lista1-jardel/joaoVictorEx1Lista1-jardel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joaoVictorEx2Lista1-jardel/joaoVictorEx2Lista1-jardel.iml" filepath="$PROJECT_DIR$/joaoVictorEx2Lista1-jardel/joaoVictorEx2Lista1-jardel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joaoVictorEx3Lista1-jardel/joaoVictorEx3Lista1-jardel.iml" filepath="$PROJECT_DIR$/joaoVictorEx3Lista1-jardel/joaoVictorEx3Lista1-jardel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joaoVictorEx4Lista1-jardel/joaoVictorEx4Lista1-jardel.iml" filepath="$PROJECT_DIR$/joaoVictorEx4Lista1-jardel/joaoVictorEx4Lista1-jardel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joaoVictorEx5Lista1-jardel/joaoVictorEx5Lista1-jardel.iml" filepath="$PROJECT_DIR$/joaoVictorEx5Lista1-jardel/joaoVictorEx5Lista1-jardel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joaoVictorEx6Lista1-jardel/joaoVictorEx6Lista1-jardel.iml" filepath="$PROJECT_DIR$/joaoVictorEx6Lista1-jardel/joaoVictorEx6Lista1-jardel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joaoVictorExDesafio01Lista1-jardel/joaoVictorExDesafio01Lista1-jardel.iml" filepath="$PROJECT_DIR$/joaoVictorExDesafio01Lista1-jardel/joaoVictorExDesafio01Lista1-jardel.iml" />
+    </modules>
+  </component>
+</project>
